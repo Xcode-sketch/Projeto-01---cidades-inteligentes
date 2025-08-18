@@ -1,6 +1,6 @@
 Olá! Seja bem-vindo(a)! 🥳
 
-Neste projeto, irei criar algumas páginas, como se fossem landing pages independentes, em um único site.
+Neste projeto, irei criar algumas páginas, como se fossem landing pages independentes, e possiciona-las em uma especie de site, que te leva a landing pages.
 
 Este projeto faz parte de uma jornada de aprendizagem.
 
